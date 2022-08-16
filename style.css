@@ -123,10 +123,14 @@ p.perfume {
     font-size: 12px;
 }
 
-span {
+span.preco2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
-    color: rgb(99, 96, 96)
+    color: rgb(99, 96, 96);
+    text-decoration: line-through;
+    vertical-align: 4px;
+    margin-left: 20px;
+    
 }
 
 span.preco {
